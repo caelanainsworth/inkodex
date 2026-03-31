@@ -1,0 +1,33 @@
+.title {
+    color: red;
+    font-family: sans-serif;
+    justify-self: center;
+}
+
+.center-self {
+    justify-self: center;
+}
+
+.textareaconf {
+    height: 50%;
+    width: 50%;
+    display: block;
+}
+
+.editorcontainers {
+    display: flex;
+}
+
+.editor {
+    color: blue;
+    display: block;
+    height: 50%;  
+    width: 50%;  
+}
+
+.preview {
+    color: green;
+    display: block;
+    height: 50%;
+    width: 50%;
+}
